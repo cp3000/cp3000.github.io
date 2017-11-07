@@ -4,6 +4,7 @@ Et værktøj som du kan bruge hvis du har adgang til Office365
 
 ### Links
 - [PowerApps "Home"](https://powerapps.microsoft.com/da-dk/)
+- [Teams](https://teams.microsoft.com/_)
 
 ### Downloads 
 Vi skal ikke bruge noget downloadet, vi "kører" det hele på Office365
